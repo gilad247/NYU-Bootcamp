@@ -11,6 +11,13 @@ This is the Fall 2022 version of NYU's Stern Data Bootcamp.
 - **Github Repository**: https://github.com/jfkoehler/NYU-Bootcamp
 - **Syllabus**: [Link](https://docs.google.com/document/d/1BD8d7Qpxfmev5MY9VdEAtgOAeH9YO0vV/edit?usp=sharing&ouid=115505102508269083833&rtpof=true&sd=true)
 
+
+- **Teaching Assistant**:  Lagan Sharma 
+- **Email**:  ls5612@nyu.edu 
+- **Office Hours**:  Thursdays 4pm - 5pm on Zoom  
+- **Zoom Link**: [Office Hours Link](https://NewSchool.zoom.us/j/98585813490) 
+
+
 #### Outline
 
 | Class | Topic | In Class | Homework |
