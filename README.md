@@ -24,8 +24,8 @@ This is the Fall 2022 version of NYU's Stern Data Bootcamp.
 | ------ | ------ | ------ | ------ |
 | 1 | Installations and introduction to Python | [Installations](https://nyudatabootcamp.gitbook.io/thebook/installing-python) , [Intro to Python](notebooks/module_1/class_1/) | [Review Notes and Introduction in Book, Foundations I](https://nyudatabootcamp.gitbook.io/thebook/py-fun1) |
 | 2 | Strings, Lists, Dictionaries, Tuples | [Notebook](notebooks/module_1/class_2/) | [Review Sections in Text and practice resources](https://nyudatabootcamp.gitbook.io/thebook/py-fun1#strings)  | 
-| 3 | Conditionals, Loops, and Functions | [Notebook]() | - | 
-| 4 | Introduction to NumPy | [Notebook]() | - |
+| 3 | Conditionals, Loops, and Functions | [Notebook](notebooks/module_1/class_3/) | [Homework I](notebooks/module_1/homeworks/) | 
+| 4 | Introduction to NumPy | [Notebook](notebooks/module_1/class_2/) | [Read through Section in Text and NumPy Tutorial](https://numpy.org/devdocs/user/absolute_beginners.html) |
 | 5 | Introduction to Pandas | [Notebook]() | - | 
 | 6 | Pandas Part II | [Notebook]() | - | 
 | 7 | Intro to `matplotlib` | [Notebook]() | - |
