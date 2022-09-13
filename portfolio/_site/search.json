@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jacob Frias Koehler, PhD",
+    "section": "",
+    "text": "At present, he is teaching such things at The New School and New York University in Manhattan, New York City."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Classes",
+    "section": "",
+    "text": "This is an introductory class at the Undergraduate level. The class weaves the history of the discipline together with modern computing tools and interactive notebooks. The primary features of this course are the use of the Python computing language and focus on applications of probability and statistics.\n  github\n\n\n.\n\n\n\n<h5 class=\"card-title\">Card title</h5>\n<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>\n<a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>\n\n\n\n\n\n\n\n<h5 class=\"card-title\">Card title</h5>\n<p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>\n<a href=\"#\" class=\"btn btn-primary\">Go somewhere</a>"
+  }
+]

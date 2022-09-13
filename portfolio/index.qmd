@@ -1,0 +1,20 @@
+---
+title: "Jacob Frias Koehler, PhD"
+about: 
+    template: trestles
+    image: LoGo.png
+    
+    links:
+    - icon: github
+      text: Github
+      href: https://github.com/jfkoehler
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/c/JacobKoehler
+    
+---
+
+Jacob is a wandering teacher of mathematics and computing.  He received his PhD in Mathematics Education from Columbia University's Teachers College under the direction of the late Dr. Bruce Vogelli. He is a career educator, and has interests in technology and curriculum development, and his research is in the history of mathematics, its curriculum, and pedagogy.  
+
+
+At present, he is teaching such things at The New School and New York University in Manhattan, New York City.  
