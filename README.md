@@ -30,4 +30,6 @@ This is the Fall 2022 version of NYU's Stern Data Bootcamp.
 | 6 | Pandas Part II | [Notebook]() | - | 
 | 7 | Intro to `matplotlib` | [Notebook]() | - |
 | 8 | Plotting Part II | [Notebook]() | - |
+| 9 | Introduction to API's | [Notebook]() | - |
+| 10 | More with API's and Visualization Review | - |
 
