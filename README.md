@@ -34,5 +34,20 @@ This is the Fall 2022 version of NYU's Stern Data Bootcamp.
 | 10 | More with API's and Visualization Review | [Notebook](notebooks/module_1/class_10) | - |
 | 11 | Getting Data Off the Web -- Webscraping | [Notebook](notebooks/module_1/class_11) | - | 
 | 12 | Geographic Data Visualization | [Notebook](notebooks/module_1/class_12) | - |
-| 13 | Visualization with Bokeh | [Notebook](notebooks/module_1/class_13) | - |
+| 13 | Probability Distributions -- Continuous and Discrete | [Notebook]() | - |
+| 14 | Hypothesis Testing | [Notebook]() | - |
+| 15 | Introduction to Linear Regression | [Notebook]() | - |
+| 16 | Expanding Linear Regression | [Notebook]() | - |
+| 17 | Introduction to Classification | [Notebook]() | - |
+| 18 | Logistic Regression | [Notebook]() | - |
+| 19 | Model Selection I: Cross Validation | [Notebook]() | - |
+| 20 | Model Selection II: Grid Search | [Notebook]() | - |
+| 21 | Decision Tree Models | [Notebook]() | - |
+| 22 | Regularization | [Notebook]() | - |
+| 23 | Ensemble Models | [Notebook]() | - |
+| 24 | Text as Data | [Notebook]() | - |
+| 25 | Time Series Models | [Notebook]() | - |
+| 26 | Introduction to Neural Networks | [Notebook]() | - |
+| 27 | Convolutional Networks for Image and Text | [Notebook]() | - |
+| 28 | Transfer Learning and Pretrained Models | [Notebook]() | - |
 
