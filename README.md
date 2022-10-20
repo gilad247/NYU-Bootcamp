@@ -35,9 +35,9 @@ This is the Fall 2022 version of NYU's Stern Data Bootcamp.
 | 11 | Getting Data Off the Web -- Webscraping | [Notebook](notebooks/module_1/class_11) | - | 
 | 12 | Geographic Data Visualization | [Notebook](notebooks/module_1/class_12) | - |
 | 13 | Probability Distributions -- Continuous and Discrete | [Notebook]() | - |
-| 14 | Hypothesis Testing | [Notebook]() | - |
-| 15 | Introduction to Linear Regression | [Notebook]() | - |
-| 16 | Expanding Linear Regression | [Notebook]() | - |
+| 14 | Introduction to Linear Regression | [Notebook]() | - |
+| 15 | Introduction to Linear Regression II | [Notebook]() | - |
+| 16 | Evaluating a Regression Model | [Notebook]() | - |
 | 17 | Introduction to Classification | [Notebook]() | - |
 | 18 | Logistic Regression | [Notebook]() | - |
 | 19 | Model Selection I: Cross Validation | [Notebook]() | - |
