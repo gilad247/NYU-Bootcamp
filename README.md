@@ -17,6 +17,19 @@ This is the Fall 2022 version of NYU's Stern Data Bootcamp.
 - **Office Hours**:  Thursdays 4pm - 5pm on Zoom  
 - **Zoom Link**: [Office Hours Link](https://NewSchool.zoom.us/j/98585813490) 
 
+### Final Project
+
+**Deliverable*:
+
+- A well-made predictive model using either structured or unstructured machine learning techniques (or other technique approved in advanced), as well as clean, well-written code.
+
+- A technical report aimed at fellow data scientists that explains your process and findings.
+
+**Deadlines**
+
+- 12-1: Data Identification
+- 12-8: Data Exploration
+- 12-13: Final Submission
 
 #### Outline
 
